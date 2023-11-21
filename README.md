@@ -1,4 +1,5 @@
-# Vue 3 TailwindCSS Todo App by Elchin Novruzov ( https://github.com/Elchin-Novruzov/ )
+# Vue 3 TailwindCSS Todo App 
+By Elchin Novruzov ( https://github.com/Elchin-Novruzov/ )
 
 A unique take on the Todo app that is built using a custom design with:
 
